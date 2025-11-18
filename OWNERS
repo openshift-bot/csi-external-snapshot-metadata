@@ -1,12 +1,3 @@
-# See the OWNERS docs at https://go.k8s.io/owners
-
 approvers:
-  - carlbraganza
-  - ihcsim
-  - jsafrane
-  - msau42
-  - PrasadG193
-  - saad-ali
-  - xing-yang
-  - hairyhum
-  - rakshith-r
+- openshift-storage-maintainers
+component: "Storage / Kubernetes External Components"
